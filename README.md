@@ -7,5 +7,5 @@
 <h1 align="center">Hello, my friend👋 I glad to see you here!</h1>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?dockstage=dockstage" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dockstage.dockstage&" alt="visitor badge"/>
 </div>

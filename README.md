@@ -8,7 +8,9 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dockstage.dockstage&" alt="visitor badge"/>
+  [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/dockstage)
 </div>
+
 
 <h3 align="left">About me</h3>
 
